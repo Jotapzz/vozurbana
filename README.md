@@ -1,4 +1,4 @@
-# 🏙️ Cidade Resolve (ou o nome escolhido)
+# 🏙️ Voz Urbana
 
 Um aplicativo mobile voltado para a cidadania participativa, permitindo que moradores denunciem problemas urbanos diretamente do seu celular.
 
